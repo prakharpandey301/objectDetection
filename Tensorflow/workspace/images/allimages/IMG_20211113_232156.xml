@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>IMG_20211113_232156.jpg</filename>
+	<path>C:\Users\PRAKHAR PANDEY\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\IMG_20211113_232156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4624</width>
+		<height>2600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>917</xmin>
+			<ymin>1502</ymin>
+			<xmax>3292</xmax>
+			<ymax>2600</ymax>
+		</bndbox>
+	</object>
+</annotation>
